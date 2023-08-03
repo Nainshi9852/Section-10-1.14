@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\bin\Debug\Section-10-1.14.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\bin\Debug\Section-10-1.14.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\bin\Debug\Section-10-1.14.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\obj\Debug\Section-10-1.14.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\obj\Debug\Section-10-1.14.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\obj\Debug\Section-10-1.14.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\obj\Debug\Section-10-1.14.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-10-1.14\Section-10-1.14\Section-10-1.14\obj\Debug\Section-10-1.14.pdb
